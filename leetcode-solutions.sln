@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "add-two-integers", "add-two-integers\add-two-integers.csproj", "{C96F270C-BFC2-492A-B0B5-F0B09E0F6EC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fizz-buzz", "fizz-buzz\fizz-buzz.csproj", "{0C9BA560-4D59-4D45-8CD0-BC587B41EF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invert-binary-tree", "invert-binary-tree\invert-binary-tree.csproj", "{7B04AAFC-2FAB-491F-9E45-CBCCF3E0BAD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "richest-customer-wealth", "richest-customer-wealth\richest-customer-wealth.csproj", "{A1FB9215-9066-411C-A0DC-50603EAB82CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "running-sum-of-1d-array", "running-sum-of-1d-array\running-sum-of-1d-array.csproj", "{BD41D7F4-A7EA-4A04-BD24-47C957A9C7C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "number-of-steps-to-reduce-a-number-to-zero", "number-of-steps-to-reduce-a-number-to-zero\number-of-steps-to-reduce-a-number-to-zero.csproj", "{E614A449-6931-4C77-B17F-A39F53AB22AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85FA6722-696D-416A-993F-6E6DFEB1FFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85FA6722-696D-416A-993F-6E6DFEB1FFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85FA6722-696D-416A-993F-6E6DFEB1FFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85FA6722-696D-416A-993F-6E6DFEB1FFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E614A449-6931-4C77-B17F-A39F53AB22AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E614A449-6931-4C77-B17F-A39F53AB22AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E614A449-6931-4C77-B17F-A39F53AB22AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E614A449-6931-4C77-B17F-A39F53AB22AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
